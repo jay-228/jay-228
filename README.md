@@ -1,3 +1,19 @@
+return DefaultTextStyle(
+  style: const TextStyle(
+    fontSize: 20.0,
+  ),
+  child: AnimatedTextKit(
+    animatedTexts: [
+      WavyAnimatedText('Hello iam jay mistry'),
+      WavyAnimatedText('Look at the waves'),
+    ],
+    isRepeatingAnimation: true,
+    onTap: () {
+      print("Tap Event");
+    },
+  ),
+);
+
 
 # 💫 About Me:
 🔭 I’m currently working on Delphi Language <br>🌱 I’m currently learning MS SQL<br>
