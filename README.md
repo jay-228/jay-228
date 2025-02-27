@@ -10,6 +10,7 @@
 
 ## Skills
 <table>
+  <div align="center">
   <tr>
     <td valign="top" width="33%">
       <h3>Frontend</h3>
@@ -34,6 +35,7 @@
       </div>
     </td>
   </tr>
+    </div>
 </table>
 
 ## Connect with Me
