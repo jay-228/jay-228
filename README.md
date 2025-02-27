@@ -53,10 +53,8 @@
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jay-228&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-228&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 40px; font-size: 14px; color: #888;">
-  <p>Made with ❤️ by Jay</p>
-  <p>© 2024</p>
-</div>
+
