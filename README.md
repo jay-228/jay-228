@@ -32,7 +32,7 @@
       </div>
     </td>
     <td valign="top" width="33%" style="padding: 15px; background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <h3 style="font-family: 'Poppins', sans-serif; color: #2c3e50;"><s>DevOps</s></h3>
+      <h3 style="font-family: 'Poppins', sans-serif; color: #2c3e50;">DevOps</h3>
       <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" style="margin: 10px; filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));" />
       </div>
