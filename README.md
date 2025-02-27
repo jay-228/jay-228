@@ -9,8 +9,9 @@
 - 🌱 I’m currently learning **Microsoft SQL and Delphi**  
 
 ## Skills
+<div align="center">
 <table>
-  <div align="center">
+  
   <tr>
     <td valign="top" width="33%">
       <h3>Frontend</h3>
@@ -35,8 +36,9 @@
       </div>
     </td>
   </tr>
-    </div>
+
 </table>
+    </div>
 
 ## Connect with Me
 <div align="center">
