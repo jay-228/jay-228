@@ -80,7 +80,7 @@
 
 
 ## Github Stats  
-<td valign="top" width="50%">
+<td valign="top" width="50%" hight="20%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-228&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
