@@ -48,6 +48,10 @@
   <a href="https://github.com/jay-228" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay-228)](https://git.io/streak-stats)
+
+  </a>
 </div>
 
 ## GitHub Stats
