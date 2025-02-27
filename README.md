@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.imgur.com/yourimage.png](https://drive.google.com/file/d/19EEgvYiyhWeF8N8E6K_5-ZPKt2SfxCUX/view?usp=sharing)" alt="Header Image" style="width: 100%;" />
+  <img src="https://drive.google.com/uc?export=view&id=19EEgvYiyhWeF8N8E6K_5-ZPKt2SfxCUX" alt="Header Image" style="width: 100%;" />
 </div>
 
 <h1 align="center">Hi, I'm Jay 👋</h1>
