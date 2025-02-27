@@ -6,14 +6,14 @@
 <h3 align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.5rem; color: #34495e;">A passionate Software Developer from Surat</h3>
 
 <p align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.1rem; color: #7f8c8d;">
-  - 🔭 I’m currently working on <strong>Accounting & Tax Software</strong>  
-  - 🌱 I’m currently learning <strong>Microsoft SQL and Delphi</strong>  
+  - 🔭 I’m currently working on <strong>Accounting & Tax Software</strong>
+  - 🌱 I’m currently learning <strong>Microsoft SQL and Delphi</strong>
 </p>
 
 ## Skills
 <div align="center">
 <table style="border-collapse: collapse; width: 100%; max-width: 800px; margin: 20px auto;">
-  
+
   <tr>
     <td valign="top" width="33%" style="padding: 15px; background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <h3 style="font-family: 'Poppins', sans-serif; color: #2c3e50;">Frontend</h3>
@@ -42,7 +42,7 @@
 </table>
 </div>
 
-## Connect with Me
+## ~~Connect with Me~~
 <div align="center" style="margin-top: 30px;">
   <a href="https://linkedin.com/in/jay-mistry-jhm22082002" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
@@ -53,7 +53,7 @@
   <a href="https://github.com/jay-228" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  
+
 </div>
 
 ## GitHub Stats
@@ -62,8 +62,6 @@
   <br> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-228&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   <br> <br/>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jay-228&layout=compact&theme=radical](https://user-images.githubusercontent.com/20955511/183303809-eb8fea2f-d56b-4ad3-9f6d-ef55f8812ed2.png)" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://user-images.githubusercontent.com/20955511/183303809-eb8fea2f-d56b-4ad3-9f6d-ef55f8812ed2.png" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   <br> <br/>
-
-
 </div>
