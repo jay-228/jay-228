@@ -55,5 +55,5 @@
   <br> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-228&layout=compact&theme=radical" alt="Top Languages" />
   <br> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-228&theme=radical" alt="GitHub Streak" />
+
 </div>
