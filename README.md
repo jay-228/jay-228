@@ -5,9 +5,8 @@
 <h1 align="center">Hi, I'm Jay 👋</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **Accounting & Tax Software**
-- 🌱 I’m currently learning **Microsoft SQL and Delphi**
-
+- 🔭 I’m currently working on **Accounting & Tax Software**  
+- 🌱 I’m currently learning **Microsoft SQL and Delphi**  
 
 ## Skills
 <table>
@@ -48,10 +47,6 @@
   <a href="https://github.com/jay-228" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay-228)](https://git.io/streak-stats)
-
-  </a>
 </div>
 
 ## GitHub Stats
@@ -59,4 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jay-228&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-228&layout=compact&theme=radical" alt="Top Languages" />
+  <br> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-228&theme=radical" alt="GitHub Streak" />
 </div>
