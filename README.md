@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 3rem; color: #2c3e50; margin-top: 20px;">Hi, I'm Jay 👋</h1>
-<h3 align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.5rem; color: #34495e;">A passionate Software Developer from India</h3>
+<h3 align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.5rem; color: #34495e;">A passionate Software Developer from Surat</h3>
 
 <p align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.1rem; color: #7f8c8d;">
   - 🔭 I’m currently working on <strong>Accounting & Tax Software</strong>  
