@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Accounting & Tax Software**
 - 🌱 I’m currently learning **Microsoft SQL and Delphi**
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+
 
 ## Skills
 <table>
