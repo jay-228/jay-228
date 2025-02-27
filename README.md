@@ -29,7 +29,7 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3>DevOps</h3>
+      <h3><s>DevOps</s></h3>
       <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
       </div>
