@@ -61,7 +61,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jay-228&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   <br> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-228&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  <br> <br/>
-  <img src="https://user-images.githubusercontent.com/20955511/183303809-eb8fea2f-d56b-4ad3-9f6d-ef55f8812ed2.png" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  <br> <br/>
+
 </div>
