@@ -42,7 +42,7 @@
 </table>
 </div>
 
-## ~~Connect with Me~~
+## Connect With Me
 <div align="center" style="margin-top: 30px;">
   <a href="https://linkedin.com/in/jay-mistry-jhm22082002" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
